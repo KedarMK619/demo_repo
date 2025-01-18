@@ -1,1 +1,1 @@
-print("My first Github Repository PYTHON")
+print("My first Github Repository PYTHON.py")
