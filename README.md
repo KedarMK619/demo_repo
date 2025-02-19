@@ -1,2 +1,2 @@
 # My First Github Repository 
-<host : KEDAR M K>
+<host : KEDAR M K
